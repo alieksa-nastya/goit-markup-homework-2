@@ -49,11 +49,11 @@ font-weight: 500;
     color: #404bbf;
 }
 
-.header-nav-link:focus {
+.nav-list:focus {
     color: #404bbf;
 }
 
-.header-nav-link-un:hover {
+.nav-list:hover {
     color: #404bbf;
 }
 
