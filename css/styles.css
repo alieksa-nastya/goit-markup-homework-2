@@ -41,7 +41,23 @@ body {
         color: #2e2f42;
 }
 
+.header-nav-link-focus {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .header-nav-link:hover {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.header-nav-link-focus:hover {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -137,7 +153,7 @@ body {
 }
 
 .section-team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .section-team-list {
