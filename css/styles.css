@@ -33,7 +33,7 @@ body {
         color: #2e2f42;
 }
 
-.nav-list {
+.nav-list a{
 font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -41,7 +41,7 @@ font-weight: 500;
     color: #2e2f42;
 }
 
-.nav-list:hover {
+.nav-list a:hover {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -49,11 +49,7 @@ font-weight: 500;
     color: #404bbf;
 }
 
-.nav-list:focus {
-    color: #404bbf;
-}
-
-.nav-list:hover {
+.nav-list a:focus {
     color: #404bbf;
 }
 
