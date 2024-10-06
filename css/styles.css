@@ -49,6 +49,10 @@ body {
     color: #404bbf;
 }
 
+.header-nav-link:focus {
+    color: #404bbf;
+}
+
 .address {
     font-style: normal
 }
@@ -82,7 +86,7 @@ body {
         line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
+        color: #ffffff
 }
 
 .section-one-button {
@@ -113,6 +117,10 @@ body {
     background-color: #FFFFFF;
 }
 
+.section-adv-title {
+    color: #2e2f42;
+}
+
 .section-adv-headers {
         font-weight: 500;
         font-size: 20px;
@@ -128,7 +136,7 @@ body {
 }
 
 .section-team {
-        background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .section-team-title {
@@ -143,7 +151,6 @@ body {
 
 .section-team-img {
         background: url("path_to_image");
-        width: 360;
 }
 
 .section-team-people {
